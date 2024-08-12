@@ -11,6 +11,7 @@
 2. Methods in MSA
 3. Group 1
    1. Multi-channel attentive graph convolutional network with sentiment fusion for multimodal sentiment analysis - Link: https://ieeexplore.ieee.org/document/9747542
+   2. A multi-stage hierarchical relational graph neural network for multimodal senti - https://ieeexplore.ieee.org/document/10096644
 5. Group 2
 6. Group 3
 7. Group 4
