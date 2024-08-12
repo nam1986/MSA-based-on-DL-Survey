@@ -9,13 +9,13 @@
    7. MEMOTION-2 - Link: https://cloud.google.com/vision
    8. MEMOTION-3 - Link: https://cloud.google.com/vision
 2. Methods in MSA
-3. Group 1
+2.1. Group 1
    1. Multi-channel attentive graph convolutional network with sentiment fusion for multimodal sentiment analysis - Link: https://ieeexplore.ieee.org/document/9747542
    2. A multi-stage hierarchical relational graph neural network for multimodal senti - https://ieeexplore.ieee.org/document/10096644
    3. Temporal Graph Convolutional Network for Multimodal Sentiment Analysis - https://dl.acm.org/doi/10.1145/3462244.3479939
    4. Heterogeneous graph convolution based on In-domain Self-supervision for Multimodal Sentiment Analysis - https://www.sciencedirect.com/science/article/abs/pii/S0957417422022588
    5. Coordinated-joint translation fusion framework with sentiment-interactive graph convolutional networks for multimodal sentiment analysis - https://www.sciencedirect.com/science/article/pii/S0306457323002753
-5. Group 2
+2.2. Group 2
      1. Learning speaker-independent multimodal representation for sentiment analysis - https://www.sciencedirect.com/science/article/abs/pii/S002002552300107X
      2. Learning Robust Joint Representations for Multimodal Sentiment Analysis - https://www.researchgate.net/publication/334654598_Found_in_Translation_Learning_Robust_Joint_Representations_by_Cyclic_Translations_Between_Modalities
      3. Self-Supervised Unimodal Label Generation Strategy Using Recalibrated Modality Representations for Multimodal Sentiment Analysis - https://aclanthology.org/2023.findings-eacl.2/
@@ -31,7 +31,7 @@
      13. MISA: Modality-Invariant and -Specific Representations for Multimodal Sentiment Analysis - https://dl.acm.org/doi/10.1145/3394171.3413678
      14. Hierarchical denoising representation disentanglement and dual-channel cross-modal-context interaction for multimodal sentiment analysis https://www.sciencedirect.com/science/article/abs/pii/S0957417424011023
       
-7. Group 3
+2.3. Group 3
    1. Cross-Modality Gated Attention Fusion for Multimodal Sentiment AnalysisCross-Modality Gated Attention Fusion for Multimodal Sentiment Analysis - https://www.researchgate.net/publication/362943702_Cross-Modality_Gated_Attention_Fusion_for_Multimodal_Sentiment_Analysis
    2. VistaNet: Visual Aspect Attention Network for Multimodal Sentiment Analysis - https://ojs.aaai.org/index.php/AAAI/article/view/3799
    3. An Improved Model of Multi-attention LSTM for Multimodal Sentiment Analysis - https://dl.acm.org/doi/10.1145/3374587.3374606
@@ -48,9 +48,17 @@
    14. The Weighted Cross-Modal Attention Mechanism With Sentiment Prediction Auxiliary Task for Multimodal Sentiment Analysis - https://ieeexplore.ieee.org/abstract/document/9834131
    15. Word-wise Sparse Attention for Multimodal Sentiment Analysis - https://www.isca-archive.org/
    16. AdaFN-AG: Enhancing multimodal interaction with Adaptive Feature Normalization for multimodal sentiment analysis - https://www.sciencedirect.com/science/article/pii/S266730532400084X
-  
-      
-9. Group 4
+       
+2.4. Group 4
+   1. TransModality: An End2End Fusion Method with Transformer for Multimodal Sentiment Analysis - https://dl.acm.org/doi/abs/10.1145/3366423.3380000
+   2. Multimodal Phased Transformer for Sentiment Analysis - https://aclanthology.org/2021.emnlp-main.189/
+   3. Dual-Encoder Transformers with Cross-modal Alignment for Multimodal Aspect-based Sentiment Analysis - https://aclanthology.org/2022.aacl-main.32/
+   4. Multi-scale Cooperative Multimodal Transformers for Multimodal Sentiment Analysis in Videos - https://arxiv.org/abs/2206.07981
+   5. Efficient Multimodal Transformer With Dual-Level Feature Restoration for Robust Multimodal Sentiment Analysis - https://ieeexplore.ieee.org/abstract/document/10122560
+   6. Adapted Multimodal Bert with Layer-Wise Fusion for Sentiment Analysis - https://ieeexplore.ieee.org/abstract/document/10094923
+   7. A Unimodal Reinforced Transformer With Time Squeeze Fusion for Multimodal Sentiment Analysis - https://ieeexplore.ieee.org/abstract/document/9426441
+   8. Transformer-based Feature Reconstruction Network for Robust Multimodal Sentiment Analysis - https://dl.acm.org/doi/abs/10.1145/3474085.3475585
+   9. HMAI-BERT: Hierarchical Multimodal Alignment and Interaction Network-Enhanced BERT for Multimodal Sentiment Analysis - https://ieeexplore.ieee.org/abstract/document/9859747
 10. Group 5
 11. Group 6
    
