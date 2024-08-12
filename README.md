@@ -12,7 +12,7 @@
 2. Taxonomy of MSA methods-based on deep learning
    
 2.1. Group 1: Graph Convolutional Network
-   1. Multi-channel attentive graph convolutional network with sentiment fusion for multimodal sentiment analysis - Link: https://ieeexplore.ieee.org/document/9747542
+   1. Multi-channel attentive graph convolutional network with sentiment fusion for multimodal sentiment analysis- https://ieeexplore.ieee.org/document/9747542
    2. A multi-stage hierarchical relational graph neural network for multimodal senti - https://ieeexplore.ieee.org/document/10096644
    3. Temporal Graph Convolutional Network for Multimodal Sentiment Analysis - https://dl.acm.org/doi/10.1145/3462244.3479939
    4. Heterogeneous graph convolution based on In-domain Self-supervision for Multimodal Sentiment Analysis - https://www.sciencedirect.com/science/article/abs/pii/S0957417422022588
