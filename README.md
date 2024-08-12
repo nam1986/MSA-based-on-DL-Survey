@@ -59,8 +59,11 @@
    7. A Unimodal Reinforced Transformer With Time Squeeze Fusion for Multimodal Sentiment Analysis - https://ieeexplore.ieee.org/abstract/document/9426441
    8. Transformer-based Feature Reconstruction Network for Robust Multimodal Sentiment Analysis - https://dl.acm.org/doi/abs/10.1145/3474085.3475585
    9. HMAI-BERT: Hierarchical Multimodal Alignment and Interaction Network-Enhanced BERT for Multimodal Sentiment Analysis - https://ieeexplore.ieee.org/abstract/document/9859747
-10. Group 5
-11. Group 6
+   10. MEDT: Using Multimodal Encoding-Decoding Network as in Transformer for Multimodal Sentiment Analysis - https://ieeexplore.ieee.org/abstract/document/9733279
+   11. MF-BERT: Multimodal Fusion in Pre-Trained BERT for Sentiment Analysis - https://ieeexplore.ieee.org/abstract/document/9667257
+   12. Sense-aware BERT and Multi-task Fine-tuning for Multimodal Sentiment Analysis- https://ieeexplore.ieee.org/abstract/document/9892116
+13. Group 5
+14. Group 6
    
  
 
