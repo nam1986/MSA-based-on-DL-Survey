@@ -2,7 +2,7 @@
 1. Dataset
    1.  IEMOCAP - Link: https://sail.usc.edu/iemocap/
    2. CMU-MOSI - Link:  https://dagshub.com/michizhou/CMU-MOSI
-   3. CMU-MOSEI - Link: http://immortal.multicomp.cs.cmu.edu/raw datasets/processed data/
+   3. CMU-MOSEI - Link: https://www.kaggle.com/datasets/gnurtqh/cmu-mosei
    4. MELD - Link: https://affectivemeld.github.io/
    5. CH-SIMS - Link: https://github.com/thuiar/MMSA
    6. MuSe-CaR - Link: https://www.musechallenge.org/challenge/
