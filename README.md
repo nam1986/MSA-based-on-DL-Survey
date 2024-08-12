@@ -19,7 +19,6 @@
    5. Coordinated-joint translation fusion framework with sentiment-interactive graph convolutional networks for multimodal sentiment analysis - https://www.sciencedirect.com/science/article/pii/S0306457323002753
       
 2.2. Group 2: Representation mechanism-based
-
      1. Learning speaker-independent multimodal representation for sentiment analysis - https://www.sciencedirect.com/science/article/abs/pii/S002002552300107X
      2. Learning Robust Joint Representations for Multimodal Sentiment Analysis - 
            https://www.researchgate.net/publication/334654598_Found_in_Translation_Learning_Robust_Joint_Representations_by_Cyclic_Translations_Between_Modalities
