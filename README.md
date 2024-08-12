@@ -5,6 +5,9 @@
    3. CMU-MOSEI - Link: http://immortal.multicomp.cs.cmu.edu/raw datasets/processed data/
    4. MELD - Link: https://affectivemeld.github.io/
    5. CH-SIMS - Link: https://github.com/thuiar/MMSA
+   6. MuSe-CaR - Link: https://www.musechallenge.org/challenge/
+   7. MEMOTION-2 - Link: https://cloud.google.com/vision
+   8. MEMOTION-3 - Link: https://cloud.google.com/vision
 2. Methods in MSA
  
 
