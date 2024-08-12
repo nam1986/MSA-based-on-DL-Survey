@@ -37,7 +37,17 @@
    3. An Improved Model of Multi-attention LSTM for Multimodal Sentiment Analysis - https://dl.acm.org/doi/10.1145/3374587.3374606
    4. Gated Mechanism for Attention Based Multi Modal Sentiment Analysis - https://ieeexplore.ieee.org/abstract/document/9053012
    5. A Deep Multi-level Attentive Network for Multimodal Sentiment Analysis- https://dl.acm.org/doi/abs/10.1145/3517139
-   6. 
+   6. Group Gated Fusion on Attention-based Bidirectional Alignment for Multimodal Emotion Recognition - https://arxiv.org/abs/2201.06309
+   7. Trimodal Attention Module for Multimodal Sentiment Analysis (Student Abstract) - https://ojs.aaai.org/index.php/AAAI/article/view/7173
+   8. A cognitive brain model for multimodal sentiment analysis based on attention neural networks - https://www.sciencedirect.com/science/article/abs/pii/S0925231220315174
+   9. Feature Extraction Network with Attention Mechanism for Data Enhancement and Recombination Fusion for Multimodal Sentiment Analysis - https://www.mdpi.com/2078-2489/12/9/342
+   10. Multi-level context extraction and attention-based contextual inter-modal fusion for multimodal sentiment analysis and emotion classification - https://link.springer.com/article/10.1007/s13735-019-00185-8
+   11. Multi-level Multiple Attentions for Contextual Multimodal Sentiment Analysis - https://ieeexplore.ieee.org/abstract/document/8215597
+   12. Multi-Tensor Fusion Network with Hybrid Attention for Multimodal Sentiment Analysis - https://ieeexplore.ieee.org/abstract/document/9469572
+   13. Various syncretic co-attention network for multimodal sentiment analysis - https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.5954
+   14. The Weighted Cross-Modal Attention Mechanism With Sentiment Prediction Auxiliary Task for Multimodal Sentiment Analysis - https://ieeexplore.ieee.org/abstract/document/9834131
+   15. Word-wise Sparse Attention for Multimodal Sentiment Analysis - https://www.isca-archive.org/
+   16. AdaFN-AG: Enhancing multimodal interaction with Adaptive Feature Normalization for multimodal sentiment analysis - https://www.sciencedirect.com/science/article/pii/S266730532400084X
   
       
 9. Group 4
