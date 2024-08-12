@@ -21,9 +21,11 @@
 2.2. Group 2: Representation mechanism-based
 
      1. Learning speaker-independent multimodal representation for sentiment analysis - https://www.sciencedirect.com/science/article/abs/pii/S002002552300107X
-     2. Learning Robust Joint Representations for Multimodal Sentiment Analysis - https://www.researchgate.net/publication/334654598_Found_in_Translation_Learning_Robust_Joint_Representations_by_Cyclic_Translations_Between_Modalities
+     2. Learning Robust Joint Representations for Multimodal Sentiment Analysis - 
+           https://www.researchgate.net/publication/334654598_Found_in_Translation_Learning_Robust_Joint_Representations_by_Cyclic_Translations_Between_Modalities
      3. Self-Supervised Unimodal Label Generation Strategy Using Recalibrated Modality Representations for Multimodal Sentiment Analysis - https://aclanthology.org/2023.findings-eacl.2/
-     4. Multimodal Representations Learning Based on Mutual Information Maximization and Minimization and Identity Embedding for Multimodal Sentiment Analysis - https://www.semanticscholar.org/paper/Multimodal-Representations-Learning-Based-on-Mutual-Zheng-Zhang/7174ce489e6c8634d8b4f8abda9a7fdce5e90839
+     4. Multimodal Representations Learning Based on Mutual Information Maximization and Minimization and Identity Embedding for Multimodal Sentiment Analysis 
+           https://www.semanticscholar.org/paper/Multimodal-Representations-Learning-Based-on-Mutual-Zheng-Zhang/7174ce489e6c8634d8b4f8abda9a7fdce5e90839
      5. Improving the Modality Representation with multi-view Contrastive Learning for Multimodal Sentiment Analysis - https://ieeexplore.ieee.org/abstract/document/10096470
      6. Multimodal Information Bottleneck: Learning Minimal Sufficient Unimodal and Multimodal Representations - https://ieeexplore.ieee.org/abstract/document/9767641
      7. Learning Modality-Specific Representations with Self-Supervised Multi-Task Learning for Multimodal Sentiment Analysis - https://ojs.aaai.org/index.php/AAAI/article/view/17289
@@ -33,7 +35,8 @@
      11. Hybrid Contrastive Learning of Tri-Modal Representation for Multimodal Sentiment Analysis - https://www.computer.org/csdl/journal/ta/2023/03/09767560/1D4H8huXs8U
      12. Inter-Intra Modal Representation Augmentation With Trimodal Collaborative Disentanglement Network for Multimodal Sentiment Analysis - https://ieeexplore.ieee.org/document/10089492
      13. MISA: Modality-Invariant and -Specific Representations for Multimodal Sentiment Analysis - https://dl.acm.org/doi/10.1145/3394171.3413678
-     14. Hierarchical denoising representation disentanglement and dual-channel cross-modal-context interaction for multimodal sentiment analysis https://www.sciencedirect.com/science/article/abs/pii/S0957417424011023
+     14. Hierarchical denoising representation disentanglement and dual-channel cross-modal-context interaction for multimodal sentiment analysis 
+           https://www.sciencedirect.com/science/article/abs/pii/S0957417424011023
      
       
 2.3. Group 3: Attention Neural Network
