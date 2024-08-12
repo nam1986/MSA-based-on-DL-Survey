@@ -17,7 +17,7 @@
    5. Coordinated-joint translation fusion framework with sentiment-interactive graph convolutional networks for multimodal sentiment analysis - https://www.sciencedirect.com/science/article/pii/S0306457323002753
 5. Group 2
      1. Learning speaker-independent multimodal representation for sentiment analysis - https://www.sciencedirect.com/science/article/abs/pii/S002002552300107X
-     2. Learning Robust Joint Representations for Multimodal Sentiment Analysi - https://openreview.net/forum?id=rkgx8x1js7
+     2. Learning Robust Joint Representations for Multimodal Sentiment Analysis - https://www.researchgate.net/publication/334654598_Found_in_Translation_Learning_Robust_Joint_Representations_by_Cyclic_Translations_Between_Modalities
      3. Self-Supervised Unimodal Label Generation Strategy Using Recalibrated Modality Representations for Multimodal Sentiment Analysis - https://aclanthology.org/2023.findings-eacl.2/
      4. Multimodal Representations Learning Based on Mutual Information Maximization and Minimization and Identity Embedding for Multimodal Sentiment Analysis - https://www.semanticscholar.org/paper/Multimodal-Representations-Learning-Based-on-Mutual-Zheng-Zhang/7174ce489e6c8634d8b4f8abda9a7fdce5e90839
      5. Improving the Modality Representation with multi-view Contrastive Learning for Multimodal Sentiment Analysis - https://ieeexplore.ieee.org/abstract/document/10096470
@@ -30,10 +30,19 @@
      12. Inter-Intra Modal Representation Augmentation With Trimodal Collaborative Disentanglement Network for Multimodal Sentiment Analysis - https://ieeexplore.ieee.org/document/10089492
      13. MISA: Modality-Invariant and -Specific Representations for Multimodal Sentiment Analysis - https://dl.acm.org/doi/10.1145/3394171.3413678
      14. Hierarchical denoising representation disentanglement and dual-channel cross-modal-context interaction for multimodal sentiment analysis https://www.sciencedirect.com/science/article/abs/pii/S0957417424011023
+      
 7. Group 3
-8. Group 4
-9. Group 5
-10. Group 6
+   1. Cross-Modality Gated Attention Fusion for Multimodal Sentiment AnalysisCross-Modality Gated Attention Fusion for Multimodal Sentiment Analysis - https://www.researchgate.net/publication/362943702_Cross-Modality_Gated_Attention_Fusion_for_Multimodal_Sentiment_Analysis
+   2. VistaNet: Visual Aspect Attention Network for Multimodal Sentiment Analysis - https://ojs.aaai.org/index.php/AAAI/article/view/3799
+   3. An Improved Model of Multi-attention LSTM for Multimodal Sentiment Analysis - https://dl.acm.org/doi/10.1145/3374587.3374606
+   4. Gated Mechanism for Attention Based Multi Modal Sentiment Analysis - https://ieeexplore.ieee.org/abstract/document/9053012
+   5. A Deep Multi-level Attentive Network for Multimodal Sentiment Analysis- https://dl.acm.org/doi/abs/10.1145/3517139
+   6. 
+  
+      
+9. Group 4
+10. Group 5
+11. Group 6
    
  
 
