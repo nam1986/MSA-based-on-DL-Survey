@@ -16,6 +16,7 @@
    3. Temporal Graph Convolutional Network for Multimodal Sentiment Analysis - https://dl.acm.org/doi/10.1145/3462244.3479939
    4. Heterogeneous graph convolution based on In-domain Self-supervision for Multimodal Sentiment Analysis - https://www.sciencedirect.com/science/article/abs/pii/S0957417422022588
    5. Coordinated-joint translation fusion framework with sentiment-interactive graph convolutional networks for multimodal sentiment analysis - https://www.sciencedirect.com/science/article/pii/S0306457323002753
+      
 2.2. Group 2
      1. Learning speaker-independent multimodal representation for sentiment analysis - https://www.sciencedirect.com/science/article/abs/pii/S002002552300107X
      2. Learning Robust Joint Representations for Multimodal Sentiment Analysis - https://www.researchgate.net/publication/334654598_Found_in_Translation_Learning_Robust_Joint_Representations_by_Cyclic_Translations_Between_Modalities
@@ -31,6 +32,7 @@
      12. Inter-Intra Modal Representation Augmentation With Trimodal Collaborative Disentanglement Network for Multimodal Sentiment Analysis - https://ieeexplore.ieee.org/document/10089492
      13. MISA: Modality-Invariant and -Specific Representations for Multimodal Sentiment Analysis - https://dl.acm.org/doi/10.1145/3394171.3413678
      14. Hierarchical denoising representation disentanglement and dual-channel cross-modal-context interaction for multimodal sentiment analysis https://www.sciencedirect.com/science/article/abs/pii/S0957417424011023
+     
       
 2.3. Group 3
    1. Cross-Modality Gated Attention Fusion for Multimodal Sentiment AnalysisCross-Modality Gated Attention Fusion for Multimodal Sentiment Analysis - https://www.researchgate.net/publication/362943702_Cross-Modality_Gated_Attention_Fusion_for_Multimodal_Sentiment_Analysis
@@ -50,6 +52,7 @@
    15. Word-wise Sparse Attention for Multimodal Sentiment Analysis - https://www.isca-archive.org/
    16. AdaFN-AG: Enhancing multimodal interaction with Adaptive Feature Normalization for multimodal sentiment analysis - https://www.sciencedirect.com/science/article/pii/S266730532400084X
        
+       
 2.4. Group 4
    1. TransModality: An End2End Fusion Method with Transformer for Multimodal Sentiment Analysis - https://dl.acm.org/doi/abs/10.1145/3366423.3380000
    2. Multimodal Phased Transformer for Sentiment Analysis - https://aclanthology.org/2021.emnlp-main.189/
@@ -63,12 +66,14 @@
    10. MEDT: Using Multimodal Encoding-Decoding Network as in Transformer for Multimodal Sentiment Analysis - https://ieeexplore.ieee.org/abstract/document/9733279
    11. MF-BERT: Multimodal Fusion in Pre-Trained BERT for Sentiment Analysis - https://ieeexplore.ieee.org/abstract/document/9667257
    12. Sense-aware BERT and Multi-task Fine-tuning for Multimodal Sentiment Analysis- https://ieeexplore.ieee.org/abstract/document/9892116
+       
 2.5. Group 5
    1. Multimodal neural network for sentiment analysis in embedded systems - https://www.semanticscholar.org/paper/Multimodal-Neural-Network-for-Sentiment-Analysis-in-Portes-Carvalho/27967b2156cebfa213da61e4959d1c3847c81018
    2. SFNN: Semantic Features Fusion Neural Network for Multimodal Sentiment Analysis - https://ieeexplore.ieee.org/abstract/document/9230015
    3. Novel OGBEE-based feature selection and feature-level fusion with MLP neural network for social media multimodal sentiment analysis - https://link.springer.com/article/10.1007/s00500-020-05049-6
    4. Multimodal Deep Learning Framework for Sentiment Analysis from Text-Image Web Data - https://ieeexplore.ieee.org/abstract/document/9457693
    5. Deep Learning Techniques for Polarity Classification in Multimodal Sentiment Analysis - https://www.worldscientific.com/doi/abs/10.1142/S0219622018500128
+      
 2.6.  Group 6
    1. A multimodal convolutional neuro-fuzzy network for emotion understanding of movie clips - https://www.sciencedirect.com/science/article/abs/pii/S0893608019301832
    2. Fuzzy commonsense reasoning for multimodal sentiment analysis - https://www.sciencedirect.com/science/article/abs/pii/S0167865519301394
