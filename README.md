@@ -62,8 +62,16 @@
    10. MEDT: Using Multimodal Encoding-Decoding Network as in Transformer for Multimodal Sentiment Analysis - https://ieeexplore.ieee.org/abstract/document/9733279
    11. MF-BERT: Multimodal Fusion in Pre-Trained BERT for Sentiment Analysis - https://ieeexplore.ieee.org/abstract/document/9667257
    12. Sense-aware BERT and Multi-task Fine-tuning for Multimodal Sentiment Analysis- https://ieeexplore.ieee.org/abstract/document/9892116
-13. Group 5
-14. Group 6
+2.5. Group 5
+   1. Multimodal neural network for sentiment analysis in embedded systems - https://www.semanticscholar.org/paper/Multimodal-Neural-Network-for-Sentiment-Analysis-in-Portes-Carvalho/27967b2156cebfa213da61e4959d1c3847c81018
+   2. SFNN: Semantic Features Fusion Neural Network for Multimodal Sentiment Analysis - https://ieeexplore.ieee.org/abstract/document/9230015
+   3. Novel OGBEE-based feature selection and feature-level fusion with MLP neural network for social media multimodal sentiment analysis - https://link.springer.com/article/10.1007/s00500-020-05049-6
+   4. Multimodal Deep Learning Framework for Sentiment Analysis from Text-Image Web Data - https://ieeexplore.ieee.org/abstract/document/9457693
+   5. Deep Learning Techniques for Polarity Classification in Multimodal Sentiment Analysis - https://www.worldscientific.com/doi/abs/10.1142/S0219622018500128
+2.6.  Group 6
+   1. A multimodal convolutional neuro-fuzzy network for emotion understanding of movie clips - https://www.sciencedirect.com/science/article/abs/pii/S0893608019301832
+   2. Fuzzy commonsense reasoning for multimodal sentiment analysis - https://www.sciencedirect.com/science/article/abs/pii/S0167865519301394
+   3. CSAT-FTCN: A Fuzzy-Oriented Model with Contextual Self-attention Network for Multimodal Emotion Recognition - https://link.springer.com/article/10.1007/s12559-023-10119-6
    
  
 
