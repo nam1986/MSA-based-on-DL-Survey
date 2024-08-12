@@ -9,5 +9,13 @@
    7. MEMOTION-2 - Link: https://cloud.google.com/vision
    8. MEMOTION-3 - Link: https://cloud.google.com/vision
 2. Methods in MSA
+3. Group 1
+   1. Multi-channel attentive graph convolutional network with sentiment fusion for multimodal sentiment analysis - doi:10.1109/ICASSP43922.2022.9747542.
+5. Group 2
+6. Group 3
+7. Group 4
+8. Group 5
+9. Group 6
+   
  
 
